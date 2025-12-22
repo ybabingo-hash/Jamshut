@@ -1,0 +1,4 @@
+repository "GEIMSNAHUty/GEIMSNAHUty@1375881016696@cloud"
+  path "/"
+    br "/main"
+    co "/main"
