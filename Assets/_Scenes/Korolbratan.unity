@@ -241,7 +241,7 @@ GameObject:
   - component: {fileID: 540119549}
   m_Layer: 0
   m_Name: Floor (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -545,7 +545,7 @@ GameObject:
   - component: {fileID: 772374588}
   m_Layer: 0
   m_Name: Floor
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -767,11 +767,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5639774351121646172, guid: 93b8c0c51e68527458040fdfc5d10db6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.66
+      value: 5.99
       objectReference: {fileID: 0}
     - target: {fileID: 5639774351121646172, guid: 93b8c0c51e68527458040fdfc5d10db6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.58
+      value: -3.07
       objectReference: {fileID: 0}
     - target: {fileID: 5639774351121646172, guid: 93b8c0c51e68527458040fdfc5d10db6, type: 3}
       propertyPath: m_LocalRotation.w
@@ -807,11 +807,11 @@ PrefabInstance:
       objectReference: {fileID: 1812213653}
     - target: {fileID: 6057453028650254479, guid: 93b8c0c51e68527458040fdfc5d10db6, type: 3}
       propertyPath: offset.y
-      value: 4.66
+      value: 5.99
       objectReference: {fileID: 0}
     - target: {fileID: 6057453028650254479, guid: 93b8c0c51e68527458040fdfc5d10db6, type: 3}
       propertyPath: offset.z
-      value: 0.58
+      value: -3.07
       objectReference: {fileID: 0}
     - target: {fileID: 6057453028650254479, guid: 93b8c0c51e68527458040fdfc5d10db6, type: 3}
       propertyPath: smoothTime
@@ -1137,7 +1137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7530008084070442223, guid: 41788133f4d9e5b44bc7e568bc7175f4, type: 3}
       propertyPath: jumpForce
-      value: 10
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 7530008084070442223, guid: 41788133f4d9e5b44bc7e568bc7175f4, type: 3}
       propertyPath: fallMultiplier
@@ -1307,7 +1307,7 @@ GameObject:
   - component: {fileID: 1945842396}
   m_Layer: 0
   m_Name: Floor (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1412,7 +1412,7 @@ GameObject:
   - component: {fileID: 2018662083}
   m_Layer: 0
   m_Name: Floor (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1517,7 +1517,7 @@ GameObject:
   - component: {fileID: 2070893093}
   m_Layer: 0
   m_Name: Floor (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
