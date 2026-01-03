@@ -3,7 +3,7 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     public Transform target;
-    public Vector3 offset = new Vector3(0, 5, -10);
+    public Vector3 offset = new Vector3(0, 4, 1);
     public float smoothTime = 0.2f; // чем меньше, тем резче, чем больше, тем плавнее
 
     private Vector3 velocity = Vector3.zero;
